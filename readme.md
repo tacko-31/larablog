@@ -718,3 +718,7 @@ Ne pas oublier le use tout en haut du fichier
 ```php
 use Illuminate\Support\Facades\URL;
 ```
+
+
+
+BRAVO au Sporting pour cette belle épopée footballistique !
