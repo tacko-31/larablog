@@ -722,3 +722,5 @@ use Illuminate\Support\Facades\URL;
 
 
 BRAVO au Sporting pour cette belle épopée footballistique !
+
+champion Invaincu. Sans une seule défaite :D
